@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "713828781408",
+    "firebase_url": "https://snapchatoreo-68517.firebaseio.com",
+    "project_id": "snapchatoreo-68517",
+    "storage_bucket": "snapchatoreo-68517.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713828781408:android:256be74c586af660",
+        "android_client_info": {
+          "package_name": "com.example.ashint.snapchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713828781408-v7nnp58teoaqqi6aeurfoba7rj401p48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_hwqjehKCXW-IvHyOWADy1wKF1x9u_hw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713828781408:android:b7b1c7044d7bc3e7",
+        "android_client_info": {
+          "package_name": "com.example.ashint.snapchatjava"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713828781408-v7nnp58teoaqqi6aeurfoba7rj401p48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_hwqjehKCXW-IvHyOWADy1wKF1x9u_hw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
